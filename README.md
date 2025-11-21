@@ -1,9 +1,9 @@
 # 8.-Design-and-Simulation-of-Three-phase-full-wave-rectifier.
-## AIM
+## AIM :
 To design, simulate and analyse a Three phase full wave rectifier controlled by thyristors using MATLAB Simulink.
-## APPARATUS REQUIRED
+## APPARATUS REQUIRED :
 •	MATLAB
-## PROCEDURE
+## PROCEDURE :
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
  <img width="522" height="376" alt="image" src="https://github.com/user-attachments/assets/ba3bbd3b-0d46-4156-a381-9ccd885a3365" />
 
@@ -42,8 +42,23 @@ by going to Simulation ⇒ Start
 13.	Save the file. ( It should be noted that Simulink do not allow to save files with spaces therefore usually is included in between two words.)
 14.	Analyze and record your inference.
 
-## Simulation
+## Simulation :
+<img width="1339" height="638" alt="image" src="https://github.com/user-attachments/assets/bdf4c63d-41dc-4792-be99-56d2db1864bf" />
 
-## Output
+## Output:
 
-## Result
+A=30 :
+
+<img width="1918" height="931" alt="image" src="https://github.com/user-attachments/assets/72eac18d-d43f-4dc1-90a4-f37bcbda09ba" />
+
+
+A=90 :
+
+<img width="1916" height="927" alt="image" src="https://github.com/user-attachments/assets/4548084e-4c73-4995-9068-88271eb60f68" />
+
+A=60 :
+
+<img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/785f5f17-648e-4c12-b31c-adf0f9d5ce64" />
+
+## Result :
+Thus designed, simulated and analysed a three phase full wave rectifier controlled by thyristors using MATLAB Simulink.
